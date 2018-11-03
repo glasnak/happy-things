@@ -1,4 +1,4 @@
-# Things To Be Happy About
+### Things To Be Happy About
 
 Fetch the daily things to be happy about from the [thingstobehappyabout.com](https://www.thingstobehappyabout.com) in a simple text form.
 
